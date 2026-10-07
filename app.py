@@ -7,7 +7,7 @@ from modules.recommender import split_skills, career_match, rank_careers, recomm
 from modules.roadmap import build_roadmap
 
 st.set_page_config(page_title='SkillMetrixa', page_icon='', layout='wide')
-st.title('SkillMetrixaI')
+st.title('SkillMetrixa')
 st.caption('A Data-Driven Skill Gap Analysis and Career Recommendation System')
 
 @st.cache_data
@@ -48,10 +48,10 @@ st.plotly_chart(fig, use_container_width=True)
 
 left,right=st.columns(2)
 with left:
-    st.markdown('#### ✅ Detected / Matched Skills')
+    st.markdown('#### Detected / Matched Skills')
     st.write(', '.join(matched) if matched else 'No target skills detected yet.')
 with right:
-    st.markdown('#### 🎯 Missing Skills')
+    st.markdown('#### Missing Skills')
     st.write(', '.join(missing) if missing else 'No gaps for this skill profile.')
 
 st.subheader('Recommended Courses')
