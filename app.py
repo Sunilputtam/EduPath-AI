@@ -6,9 +6,9 @@ from modules.skill_extractor import extract_skills
 from modules.recommender import split_skills, career_match, rank_careers, recommend_courses, recommend_projects
 from modules.roadmap import build_roadmap
 
-st.set_page_config(page_title='EduPath AI', page_icon='🎓', layout='wide')
-st.title('🎓 EduPath AI')
-st.caption('Intelligent Academic & Career Pathway Recommendation System')
+st.set_page_config(page_title='SkillMetrixa', page_icon='', layout='wide')
+st.title('SkillMetrixaI')
+st.caption('A Data-Driven Skill Gap Analysis and Career Recommendation System')
 
 @st.cache_data
 def load_data():
