@@ -1,0 +1,9 @@
+project,skills,difficulty,description
+Customer Churn Prediction,"python;pandas;machine learning;scikit-learn;data visualization",Intermediate,"Build and explain a classification model for customer churn."
+End-to-End ML Deployment,"python;machine learning;docker;aws;mlops;git",Advanced,"Train, package and deploy a machine-learning service."
+Campus RAG Assistant,"python;nlp;llm;rag;langchain;vector databases",Advanced,"Create a grounded assistant that answers from university documents."
+Interactive Enrollment Dashboard,"sql;tableau;data visualization;statistics",Intermediate,"Analyze enrollment and student success metrics in a dashboard."
+Student Success Early Warning,"python;statistics;machine learning;scikit-learn;data visualization",Advanced,"Predict academic risk and explain important factors responsibly."
+Distributed Education Analytics,"python;spark;hadoop;sql",Advanced,"Analyze large-scale education event data using distributed computing."
+Automated Data Pipeline,"python;sql;etl;airflow;databases;aws",Advanced,"Build a scheduled ingestion, transformation and validation pipeline."
+LLM Career Advisor,"python;nlp;llm;rag;vector databases",Advanced,"Build an AI career advisor grounded in curated career resources."
