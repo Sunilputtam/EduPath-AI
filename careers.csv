@@ -1,0 +1,7 @@
+career,description,skills
+Data Scientist,"Build predictive models, experiments, and data products","python;sql;pandas;numpy;statistics;machine learning;scikit-learn;data visualization;tableau;git"
+Data Analyst,"Analyze business data and communicate insights","sql;excel;python;pandas;statistics;tableau;power bi;data visualization;git"
+Machine Learning Engineer,"Build and deploy production ML systems","python;sql;machine learning;scikit-learn;deep learning;tensorflow;pytorch;docker;aws;mlops;git"
+Data Engineer,"Build reliable data pipelines and platforms","python;sql;spark;hadoop;etl;airflow;aws;docker;databases;git"
+AI Engineer,"Build applications using modern AI and LLM systems","python;machine learning;deep learning;nlp;llm;rag;langchain;vector databases;docker;aws;git"
+Business Intelligence Analyst,"Create dashboards and decision-support analytics","sql;excel;tableau;power bi;data visualization;statistics;etl;databases"
